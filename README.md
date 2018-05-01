@@ -12,3 +12,10 @@ Installation: dotnet tool install toolname -g
 * [dotnet-cmder](https://github.com/EifelMono/dotnet-cmder)
 * [dotnet-sysinternals]()
 
+
+## VS Code extensions
+
+## VS Studio extensions
+
+## Nuget packages
+

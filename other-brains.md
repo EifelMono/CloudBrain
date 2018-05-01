@@ -1,3 +1,3 @@
 # Other brains
 
-* [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin/blob/master/README.md9
+* [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin/blob/master/README.md/)

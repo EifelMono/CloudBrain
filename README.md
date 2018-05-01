@@ -1,5 +1,7 @@
 # CloudBrain
 
+## [other bains](https://github.com/EifelMono/cloud-brain/blob/master/other-brains.md)
+
 ## [dotnet core](https://github.com/EifelMono/cloud-brain/blob/master/dotnet-core.md)
 ## [tools](https://github.com/EifelMono/cloud-brain/blob/master/tools.md)
 

@@ -1,9 +1,9 @@
 # CloudBrain
 
-## [tools](https://github.com/EifelMono/CloudBrain/blob/master/tools.md)
+## [tools](https://github.com/EifelMono/cloud-brain/blob/master/tools.md)
 
 ## Nuget packages
 
 
-## [async and await](https://github.com/EifelMono/CloudBrain/blob/master/async_and_await.md)
+## [async and await](https://github.com/EifelMono/cloud-brain/blob/master/async_and_await.md)
 

@@ -7,3 +7,6 @@
 * [Getting the .NET Core Runtime Version in a Running Application](https://weblog.west-wind.com/posts/2018/Apr/12/Getting-the-NET-Core-Runtime-Version-in-a-Running-Application)
 
 
+## no tool
+
+https://github.com/qmfrederik/dotnet-packaging/

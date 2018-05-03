@@ -1,4 +1,6 @@
-#dotnet core
+# dotnet core
+
+## tool
 
 * [API Versioning in .Net Core](https://neelbhatt.com/2018/04/21/api-versioning-in-net-core/)
 
@@ -10,3 +12,7 @@
 ## no tool
 
 https://github.com/qmfrederik/dotnet-packaging/
+
+## other brains
+
+https://github.com/natemcmaster/dotnet-tools

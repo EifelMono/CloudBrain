@@ -31,6 +31,7 @@ https://github.com/natemcmaster/dotnet-tools
   * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
    
 * Roslynator
+  * https://github.com/JosefPihrt/Roslynator
 * Ghostdoc
 * Powertools
 * open in visual studio code
@@ -38,7 +39,7 @@ https://github.com/natemcmaster/dotnet-tools
 * [WixSharp](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates)
   * https://github.com/oleg-shilo/wixsharp
   * [Samples](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples/Wix%23%20Samples)
-  * [Wix]http://wixtoolset.org/releases/
+  * [Wix](http://wixtoolset.org/releases/)
 
 * Quicktype.io Jsonpaste
 

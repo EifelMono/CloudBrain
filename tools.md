@@ -27,7 +27,8 @@ https://github.com/natemcmaster/dotnet-tools
 
 ## VS Studio extensions
 
-https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
+* [Intellicode]https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode
+   * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
 Roslynator
 Ghostdoc
 Powertools

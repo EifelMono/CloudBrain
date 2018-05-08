@@ -35,7 +35,12 @@ https://github.com/natemcmaster/dotnet-tools
 * Powertools
 * open in visual studio code
 * Xaml stle?
-* Wix 2017 Extensions
+* [Wix]http://wixtoolset.org/releases/
+  * WixSharp
+    * https://github.com/oleg-shilo/wixsharp
+  
+
+
 * Quicktype.io Jsonpaste
 
 

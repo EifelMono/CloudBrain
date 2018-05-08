@@ -27,4 +27,17 @@ https://github.com/natemcmaster/dotnet-tools
 
 ## VS Studio extensions
 
+https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
+Roslynator
+Ghostdoc
+Powertools
+open in visual studio code
+Xaml stle?
+Wix 2017 Extensions
+Quicktype.io Jsonpaste
+
+
 ### other VS Studio extensions brains
+
+https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
+

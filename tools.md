@@ -27,7 +27,7 @@ https://github.com/natemcmaster/dotnet-tools
 
 ## VS Studio extensions
 
-* [Intellicode]https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode
+* [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
   * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
    
 * Roslynator
@@ -38,7 +38,7 @@ https://github.com/natemcmaster/dotnet-tools
 * [Wix]http://wixtoolset.org/releases/
   * WixSharp
     * https://github.com/oleg-shilo/wixsharp
-    * [Samples]https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples/Wix%23%20Samples
+    * [Samples](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples/Wix%23%20Samples)
   
 
 

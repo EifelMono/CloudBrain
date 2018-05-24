@@ -52,5 +52,5 @@ https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 
 
 # git
-* [download folders from a git repro](https://minhaskamal.github.io/DownGit/#/home)
+* [GitDown download folder from a git repro](https://minhaskamal.github.io/DownGit/#/home)
 

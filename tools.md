@@ -50,3 +50,7 @@ https://github.com/natemcmaster/dotnet-tools
 
 https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 
+
+# git
+* [download folders from a git repro](https://minhaskamal.github.io/DownGit/#/home)
+

@@ -25,6 +25,8 @@ https://github.com/natemcmaster/dotnet-tools
 
 ### other VS Code extensions brains
 
+* [Winter is coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming&wt.mc_id=code-twitter-jopapa)
+
 ## VS Studio extensions
 
 * [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)

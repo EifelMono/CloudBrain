@@ -39,7 +39,7 @@ https://github.com/natemcmaster/dotnet-tools
 * open in visual studio code
 * Xaml stle?
 * [WixSharp](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates)
-  * [Samples](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples/Wix%23%20Samples)
+  * [Samples](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples)
   * https://github.com/oleg-shilo/wixsharp
   * [Wix](http://wixtoolset.org/releases/)
 

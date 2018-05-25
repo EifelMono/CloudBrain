@@ -54,3 +54,15 @@ https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 # git
 * [GitDown download folder from a git repro](https://minhaskamal.github.io/DownGit/#/home)
 
+# cake
+* https://cakebuild.net/
+* tutorial
+** https://www.youtube.com/watch?time_continue=9&v=WbaR2-v6JXQ
+** https://www.youtube.com/watch?v=zZIyEn4jF2U
+
+# editorconfig
+* http://editorconfig.org/
+* https://docs.microsoft.com/de-de/visualstudio/ide/editorconfig-code-style-settings-reference
+* https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
+
+

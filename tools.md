@@ -56,9 +56,9 @@ https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 
 # cake
 * https://cakebuild.net/
-* tutorial
-** https://www.youtube.com/watch?time_continue=9&v=WbaR2-v6JXQ
-** https://www.youtube.com/watch?v=zZIyEn4jF2U
+* tutorials
+  * https://www.youtube.com/watch?time_continue=9&v=WbaR2-v6JXQ
+  * https://www.youtube.com/watch?v=zZIyEn4jF2U
 
 # editorconfig
 * http://editorconfig.org/

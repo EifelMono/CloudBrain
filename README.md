@@ -4,6 +4,7 @@
 
 ## [dotnet core](https://github.com/EifelMono/cloud-brain/blob/master/dotnet-core.md)
 ## [tools](https://github.com/EifelMono/cloud-brain/blob/master/tools.md)
+## [design](https://github.com/EifelMono/cloud-brain/blob/master/design.md)
 
 ## Nuget packages
 

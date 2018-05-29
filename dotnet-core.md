@@ -8,7 +8,9 @@
 
 * [Getting the .NET Core Runtime Version in a Running Application](https://weblog.west-wind.com/posts/2018/Apr/12/Getting-the-NET-Core-Runtime-Version-in-a-Running-Application)
 
-* [publish to azure as zip file de](https://docs.microsoft.com/de-de/azure/azure-functions/deployment-zip-push)
+* [publish to azure as zip file "de"](https://docs.microsoft.com/de-de/azure/azure-functions/deployment-zip-push)
+* [publish to azure as zip file "de"](https://docs.microsoft.com/en-us/azure/azure-functions/deployment-zip-push)
+
 
 
 ## no tool

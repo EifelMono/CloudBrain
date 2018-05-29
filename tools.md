@@ -26,6 +26,7 @@ https://github.com/natemcmaster/dotnet-tools
 ### other VS Code extensions brains
 
 * [Winter is coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming&wt.mc_id=code-twitter-jopapa)
+* [Intellisense for msbuild project files!](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 
 ## VS Studio extensions
 

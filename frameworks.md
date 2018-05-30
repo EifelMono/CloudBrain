@@ -1,3 +1,6 @@
+# frameworks
+* [all](https://www.microsoft.com/net/download/all)
+
 # dotnet core
 
 ## infos

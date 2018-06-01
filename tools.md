@@ -27,6 +27,7 @@ https://github.com/natemcmaster/dotnet-tools
 
 * [Winter is coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming&wt.mc_id=code-twitter-jopapa)
 * [Intellisense for msbuild project files!](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
+* [Azure IoT Workbench](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-workbench&wt.mc_id=AID627586_QSG_SCL_253805)
 
 ## VS Studio extensions
 

@@ -15,7 +15,7 @@ public class TVO : MvvmObject {
 		Type.Value = type;
 		Code.Value = code;
 	}
-	    public MvvmProperty<ScanCodeType> Type { get; set; } = new MvvmProperty<ScanCodeType>();
-	    public MvvmProperty<string> Code { get; set; } = new MvvmProperty<string>();
-	}
+	public MvvmProperty<ScanCodeType> Type { get; set; } = new MvvmProperty<ScanCodeType>();
+	public MvvmProperty<string> Code { get; set; } = new MvvmProperty<string>();
+}
  ```

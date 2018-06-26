@@ -29,6 +29,8 @@ https://github.com/natemcmaster/dotnet-tools
 * [Intellisense for msbuild project files!](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 * [Azure IoT Workbench](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-iot-workbench&wt.mc_id=AID627586_QSG_SCL_253805)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+* [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
+* [Markdown lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 ## VS Studio extensions
 

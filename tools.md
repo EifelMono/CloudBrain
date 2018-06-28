@@ -60,10 +60,15 @@ https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 * [GitDown download folder from a git repro](https://minhaskamal.github.io/DownGit/#/home)
 
 
+# [Code Style Configuration](https://blogs.msdn.microsoft.com/dotnet/2016/12/15/code-style-configuration-in-the-vs2017-rc-update/)
+* [Relation between ruleset, editorconfig rules and VS Code Style](https://github.com/dotnet/roslyn/issues/19618)
 
 # editorconfig
 * http://editorconfig.org/
 * https://docs.microsoft.com/de-de/visualstudio/ide/editorconfig-code-style-settings-reference
 * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
+
+# Settings.StyleCop
+* 
 
 

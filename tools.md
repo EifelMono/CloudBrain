@@ -50,6 +50,9 @@ https://github.com/natemcmaster/dotnet-tools
 
 * Quicktype.io Jsonpaste
 
+### TIP
+* Pro Tip: To verify that your document is using spaces vs tabs, enable Edit>Advanced>View White Space.
+
 
 ### other VS Studio extensions brains
 
@@ -67,6 +70,7 @@ https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 * http://editorconfig.org/
 * https://docs.microsoft.com/de-de/visualstudio/ide/editorconfig-code-style-settings-reference
 * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
+* [default .editorconfig from roslyn](https://github.com/dotnet/roslyn/blob/master/.editorconfig)
 
 # Settings.StyleCop
 * 

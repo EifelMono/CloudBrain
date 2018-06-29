@@ -39,6 +39,7 @@ https://github.com/natemcmaster/dotnet-tools
    
 * [Roslynator](https://github.com/JosefPihrt/Roslynator)
 * [EditorConfig Language Service](http://vsixgallery.com/extension/1209461d-57f8-46a4-814a-dbe5fecef941/)
+* [Windows Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio)
 
 * Ghostdoc
 * Powertools

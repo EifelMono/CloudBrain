@@ -73,6 +73,7 @@ https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 * https://docs.microsoft.com/de-de/visualstudio/ide/editorconfig-code-style-settings-reference
 * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
 * [default .editorconfig from roslyn](https://github.com/dotnet/roslyn/blob/master/.editorconfig)
+* [default from the doc page](https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference#example-editorconfig-file)
 
 # Settings.StyleCop
 * 

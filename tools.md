@@ -2,11 +2,13 @@
 
 ## dotnet tool
 
+### [Infos](https://docs.microsoft.com/de-de/dotnet/core/tools/global-tools?WT.mc_id=none-blog-shboyer)
 Installation: dotnet tool install toolname -g
 
 * [dotnet-server](https://github.com/natemcmaster/dotnet-serve)
 * [dotnet-script](https://github.com/filipw/dotnet-script)
 * [dotnet-code](https://github.com/EifelMono/dotnet-code)
+* [dotnet-outdated](https://tattoocoder.com/using-global-tool-dotnet-outdated-to-check-for-the-latest-nuget-package-updates/)
 
 ### Windows only
 * [dotnet-cmder](https://github.com/EifelMono/dotnet-cmder)

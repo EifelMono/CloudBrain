@@ -7,7 +7,9 @@
 ## nuget
 
 ### external
+* [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)
 * [Flurl Http,...](https://www.nuget.org/packages/Flurl/)
+* [NetMQ](https://www.nuget.org/packages/NetMQ)
 
 ### build in ?
 * [System.IO.Pipelines](https://www.nuget.org/packages/System.IO.Pipelines/)

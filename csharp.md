@@ -6,6 +6,8 @@
 
 * [Deconstructor](https://andrewlock.net/deconstructors-for-non-tuple-types-in-c-7-0/)
 
+* [Pattern macthing](https://csharp.christiannagel.com/2017/02/15/patternmatching/)
+
 ## nuget
 
 ### external

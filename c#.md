@@ -10,6 +10,8 @@
 
 * [Mads Torgersen c# 7.0 ... 8.0](http://www.dotnetcurry.com/csharp/1455/mads-torgersen-interview)
 
+* [The State of C# - What Have I Missed - Filip Ekberg](https://www.youtube.com/watch?v=iIhUOX_TJuA&feature=youtu.be)
+
 ## nuget
 
 ### external

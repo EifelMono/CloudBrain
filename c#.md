@@ -6,7 +6,9 @@
 
 * [Deconstructor](https://andrewlock.net/deconstructors-for-non-tuple-types-in-c-7-0/)
 
-* [Pattern macthing](https://csharp.christiannagel.com/2017/02/15/patternmatching/)
+* [Pattern matching](https://csharp.christiannagel.com/2017/02/15/patternmatching/)
+
+* [Mads Torgersen c# 7.0 ... 8.0](http://www.dotnetcurry.com/csharp/1455/mads-torgersen-interview)
 
 ## nuget
 

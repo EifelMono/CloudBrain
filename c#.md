@@ -12,6 +12,10 @@
 
 * [The State of C# - What Have I Missed - Filip Ekberg](https://www.youtube.com/watch?v=iIhUOX_TJuA&feature=youtu.be)
 
+## Framework
+
+* [Framework Checker](https://www.codeproject.com/Articles/1256260/NET-Framework-Checker)
+
 
 ## Performance
 * [Linq performance with Count() and Any()](https://www.dotnetjalps.com/2013/01/linq-performance-with-count-and-any.html)

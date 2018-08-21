@@ -1,3 +1,6 @@
+# Docs
+* [ASP.NET Core-Dokumentation](https://docs.microsoft.com/de-de/aspnet/)
+
 # ASP.NET Core
 
 * [EU GDPR](https://docs.microsoft.com/en-gb/aspnet/core/security/gdpr?view=aspnetcore-2.1)

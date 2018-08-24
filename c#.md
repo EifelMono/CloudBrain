@@ -15,6 +15,7 @@
 ## Framework
 
 * [Framework Checker](https://www.codeproject.com/Articles/1256260/NET-Framework-Checker)
+* [dotnet.core speedup Tiered Compilation](https://blogs.msdn.microsoft.com/dotnet/2018/08/02/tiered-compilation-preview-in-net-core-2-1/)
 
 
 ## Performance

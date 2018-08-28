@@ -43,11 +43,11 @@ https://github.com/natemcmaster/dotnet-tools
 * [EditorConfig Language Service](http://vsixgallery.com/extension/1209461d-57f8-46a4-814a-dbe5fecef941/)
 * [Windows Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio)
 * [Extensionmanager](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensionManager)
-
+* [OpenCommandLine](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
 * Ghostdoc
 * Powertools
 * open in visual studio code
-* Xaml stle?
+* Xaml style?
 * [WixSharp](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates)
   * [WixSharp samples on github ](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples)
   * [Source on github](https://github.com/oleg-shilo/wixsharp)

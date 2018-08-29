@@ -1,6 +1,8 @@
 # Visual Studio Tips
 
-#Twitter 
+# [Mads Kristensen](https://twitter.com/mkristensen)
+  [Twitter #vstip](https://twitter.com/search?src=typd&q=%23vstip)
+    
 # https://iamtimcorey.com/vs-gems/
 Top 10 List
 * Open Containing Folder (right-click on a tab) and Copy Full Path (right-click on a tab)

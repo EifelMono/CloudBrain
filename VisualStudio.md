@@ -18,6 +18,8 @@ Top 10 List
 * Show Intellisense (Ctrl+J) or Show Parameter Information (Ctrl+Shift+Space)
 * Multi-Cursor (Shift+Alt+Up/Down Arrow)
 
+### others
+* [Multi-caret selection](https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-replacing-text?view=vs-2017#multi-caret-selection)
 
 ## Extensions
 

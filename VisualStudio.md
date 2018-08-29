@@ -3,8 +3,8 @@
 * Twitter 
 * https://iamtimcorey.com/vs-gems/
  * Top 10 List
-1 Open Containing Folder (right-click on a tab) and Copy Full Path (right-click on a tab)
-1 Add suggestions for assemblies and NuGet packages as well as prefer auto-properties – Under Tools > Options > Text Editor > C# > Advanced
+  * Open Containing Folder (right-click on a tab) and Copy Full Path (right-click on a tab)
+  * Add suggestions for assemblies and NuGet packages as well as prefer auto-properties – Under Tools > Options > Text Editor > C# > Advanced
 1 Go To Definition (F12 or Ctrl+Click) or Go To Implementation (Ctrl+F12)
 1 Go To All (Ctrl+T or Ctrl+,)
 1 Refactoring (Ctrl+. or Alt+Enter)

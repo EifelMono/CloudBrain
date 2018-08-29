@@ -1,9 +1,11 @@
-# Visual Studio Tips
+# Visual Studio
 
-# [Mads Kristensen](https://twitter.com/mkristensen)
+## Tips
+
+### [Mads Kristensen](https://twitter.com/mkristensen)
   [Twitter #vstip](https://twitter.com/search?src=typd&q=%23vstip)
     
-# https://iamtimcorey.com/vs-gems/
+### https://iamtimcorey.com/vs-gems/
 Top 10 List
 * Open Containing Folder (right-click on a tab) and Copy Full Path (right-click on a tab)
 * Add suggestions for assemblies and NuGet packages as well as prefer auto-properties – Under Tools > Options > Text Editor > C# > Advanced
@@ -15,3 +17,8 @@ Top 10 List
 * Move Code (Alt+Up/Down Arrow)
 * Show Intellisense (Ctrl+J) or Show Parameter Information (Ctrl+Shift+Space)
 * Multi-Cursor (Shift+Alt+Up/Down Arrow)
+
+
+## Extensions
+
+## others

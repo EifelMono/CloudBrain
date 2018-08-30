@@ -34,35 +34,6 @@ https://github.com/natemcmaster/dotnet-tools
 * [docs-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
 * [Markdown lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-## VS Studio extensions
-
-* [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
-  * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
-   
-* [Roslynator](https://github.com/JosefPihrt/Roslynator)
-* [EditorConfig Language Service](http://vsixgallery.com/extension/1209461d-57f8-46a4-814a-dbe5fecef941/)
-* [Windows Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio)
-* [Extensionmanager](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensionManager)
-* [OpenCommandLine](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
-* Ghostdoc
-* Powertools
-* open in visual studio code
-* Xaml style?
-* [WixSharp](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates)
-  * [WixSharp samples on github ](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples)
-  * [Source on github](https://github.com/oleg-shilo/wixsharp)
-  * [Wix](http://wixtoolset.org/releases/)
-
-* Quicktype.io Jsonpaste
-
-### TIP
-* Pro Tip: To verify that your document is using spaces vs tabs, enable Edit>Advanced>View White Space.
-
-
-### other VS Studio extensions brains
-
-https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
-
 
 # git
 * [GitDown download folder from a git repro](https://minhaskamal.github.io/DownGit/#/home)

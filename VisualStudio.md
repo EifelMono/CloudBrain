@@ -24,8 +24,7 @@ Top 10 List
 
 ## Extensions
 
-###
-
+### Use
 
 * [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
 * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
@@ -49,4 +48,4 @@ Top 10 List
 * [List of the Best Free Visual Studio Extensions](https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/)
 
 
-## others
+

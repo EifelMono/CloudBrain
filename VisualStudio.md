@@ -3,7 +3,8 @@
 ## Tips
 
 ### [Mads Kristensen](https://twitter.com/mkristensen)
-  [Twitter #vstip](https://twitter.com/search?src=typd&q=%23vstip)
+* [Twitter #vstip](https://twitter.com/search?src=typd&q=%23vstip)
+* [extensions](https://marketplace.visualstudio.com/publishers/MadsKristensen)
     
 ### https://iamtimcorey.com/vs-gems/
 Top 10 List
@@ -37,7 +38,7 @@ Top 10 List
 * [OpenCommandLine](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
 * Ghostdoc
 * Powertools
-* open in visual studio code
+* [Open in visual studio code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 * Xaml style?
 * [WixSharp](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates)
   * [WixSharp samples on github ](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples)

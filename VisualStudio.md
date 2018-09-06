@@ -17,7 +17,7 @@ Top 10 List
 * Interactive Window (under View > Other Windows > C# Interactive)
 * Move Code (Alt+Up/Down Arrow)
 * Show Intellisense (Ctrl+J) or Show Parameter Information (Ctrl+Shift+Space)
-* Multi-Cursor (Shift+Alt+Goto open windows selection /Down Arrow)
+* Multi-Cursor (Shift+Alt+Cursor Up/Down)
 * Goto open windows selection Alt+F7
 * Next/previous error (red squiggle) in file +PgDn/PgUp will go o .
 

@@ -16,10 +16,12 @@ Top 10 List
 * Code Cleanup (Ctrl+E,D) – more cleanup options under Tools > Options > Text Editor > C# > Code Style > Formatting
 * Interactive Window (under View > Other Windows > C# Interactive)
 * Move Code (Alt+Up/Down Arrow)
-* Show Intellisense (Ctrl+J) or Show Parameter Information (Ctrl+Shift+Space)
+* Show Intellisense (Ctrl+J)
+* Show Parameter Information (Ctrl+Shift+Space)
 * Multi-Cursor (Shift+Alt+Cursor Up/Down)
 * Goto open windows selection Alt+F7
-* Next/previous error (red squiggle) in file +PgDn/PgUp will go o .
+* Next/previous error (red squiggle) in file +PgDn/PgUp 
+* Jump to the last edit location in a solution Ctrl+Shift+Backspace 
 
 ### others
 * [Improving your productivity in the Visual Studio Editor](https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/)

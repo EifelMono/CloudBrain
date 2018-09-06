@@ -38,6 +38,7 @@ Top 10 List
 * [Windows Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio)
 * [Extensionmanager](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensionManager)
 * [OpenCommandLine](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
+* [Project File Tools](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
 * Ghostdoc
 * Powertools
 * [Open in visual studio code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)

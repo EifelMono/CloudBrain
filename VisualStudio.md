@@ -31,7 +31,7 @@ Top 10 List
 ### Use
 
 * [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
-* https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
+  * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
    
 * [Roslynator](https://github.com/JosefPihrt/Roslynator)
 * [EditorConfig Language Service](http://vsixgallery.com/extension/1209461d-57f8-46a4-814a-dbe5fecef941/)

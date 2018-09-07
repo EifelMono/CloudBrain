@@ -45,6 +45,7 @@ Top 10 List
 * [Extensionmanager](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensionManager)
 * [OpenCommandLine](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
 * [Project File Tools](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
+* [editorconfig](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
 * Ghostdoc
 * Powertools
 * [Open in visual studio code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)

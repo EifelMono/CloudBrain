@@ -47,6 +47,7 @@ Top 10 List
 * [Project File Tools](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
 * [editorconfig](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
 * [LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
+  * https://visualstudio.microsoft.com/de/services/live-share/
 * Ghostdoc
 * Powertools
 * [Open in visual studio code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)

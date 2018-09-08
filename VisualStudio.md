@@ -46,6 +46,7 @@ Top 10 List
 * [OpenCommandLine](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
 * [Project File Tools](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
 * [editorconfig](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
+* [LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
 * Ghostdoc
 * Powertools
 * [Open in visual studio code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)

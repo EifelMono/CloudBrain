@@ -1,6 +1,6 @@
 # Code
 
-## HotKEys
+## HotKeys
 | Start Key | Next Key | Desription |
 |:------------- |:-------------|:-----|
 | Ctrl+ K | Ctrl+S | View KeyboardShurtCuts |

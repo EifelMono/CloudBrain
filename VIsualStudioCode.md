@@ -5,6 +5,4 @@
 |:------------- |:-------------|:-----|
 | Ctrl+ K | Ctrl+S | View KeyboardShurtCuts |
 | Ctrl+ K| Ctrl+D | Mark underlying Word |
- * Ctrl+K + Ctrl+S KeyBoardShortCuts
-
-* Ctrl+K   => Ctrl+D Mark select and next
+|  | Ctrl+D | Mark next same word|

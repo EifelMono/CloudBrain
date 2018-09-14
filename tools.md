@@ -9,6 +9,7 @@ Installation: dotnet tool install toolname -g
 * [dotnet-script](https://github.com/filipw/dotnet-script)
 * [dotnet-code](https://github.com/EifelMono/dotnet-code)
 * [dotnet-outdated](https://tattoocoder.com/using-global-tool-dotnet-outdated-to-check-for-the-latest-nuget-package-updates/)
+* [dotnet-retro helper](https://tirania.org/Retro.pdf)
 
 ### Windows only
 * [dotnet-cmder](https://github.com/EifelMono/dotnet-cmder)

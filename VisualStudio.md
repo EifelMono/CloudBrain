@@ -18,6 +18,7 @@ Top 10 List
 * Move Code (Alt+Up/Down Arrow)
 * Show Intellisense (Ctrl+J)
 * Show Parameter Information (Ctrl+Shift+Space)
+* Toogle FUll Screen (Shift+Alt+Enter) 
 
 ### from the internet
 
@@ -31,7 +32,7 @@ Top 10 List
 * [Improving your productivity in the Visual Studio Editor](https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/)
 * [Multi-caret selection](https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-replacing-text?view=vs-2017#multi-caret-selection)
 * Pro Tip: To verify that your document is using spaces vs tabs, enable Edit>Advanced>View White Space.
-* Shift+Alt+Enter FullScreenMode
+
 
 ## Extensions
 

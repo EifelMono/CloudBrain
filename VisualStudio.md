@@ -23,6 +23,7 @@ Top 10 List
 ### from the internet
 
 * Multi-Cursor (Shift+Alt+Cursor Up/Down)
+  https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-replacing-text?view=vs-2017#multi-caret-selection
 * Goto open windows selection Alt+F7
 * Next/previous error (red squiggle) in file +PgDn/PgUp 
 * Jump to the last edit location in a solution Ctrl+Shift+Backspace 

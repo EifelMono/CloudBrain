@@ -16,6 +16,10 @@
 
 ## Framework
 
+* [NET Core Daily Builds](https://github.com/dotnet/core/blob/master/daily-builds.md)
+* [NetStandard Table](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/)
+* [4.71 and NetStandard 2.0](https://www.youtube.com/watch?v=u67Eu_IgEMs&t=58s)
+
 * [Framework Checker](https://www.codeproject.com/Articles/1256260/NET-Framework-Checker)
 * [dotnet.core speedup Tiered Compilation](https://blogs.msdn.microsoft.com/dotnet/2018/08/02/tiered-compilation-preview-in-net-core-2-1/)
 

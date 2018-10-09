@@ -26,6 +26,8 @@
 
 ## Performance
 * [Linq performance with Count() and Any()](https://www.dotnetjalps.com/2013/01/linq-performance-with-count-and-any.html)
+* [Task.Run / Task.Factory.StartNew](https://twitter.com/davidfowl/status/1049185723176251392)
+  * [Task.StartNew is dangerous](https://blog.stephencleary.com/2013/08/startnew-is-dangerous.html)
 
 
 ## nuget

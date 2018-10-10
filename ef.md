@@ -18,6 +18,9 @@
 
 * [Entity Framework in the Enterprise](https://app.pluralsight.com/library/courses/entity-framework-enterprise-update/table-of-contents)
 
+### others
+* [Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)
+
 
 ## www
 

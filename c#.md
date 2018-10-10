@@ -29,6 +29,10 @@
 * [Task.Run / Task.Factory.StartNew](https://twitter.com/davidfowl/status/1049185723176251392)
   * [startnew-is-dangerous](https://blog.stephencleary.com/2013/08/startnew-is-dangerous.html)
   * [task-run-vs-task-factory-startnew](https://blogs.msdn.microsoft.com/pfxteam/2011/10/24/task-run-vs-task-factory-startnew/)
+  
+## Otheres
+
+* [Access without reflection](https://www.strathweb.com/2018/10/no-internalvisibleto-no-problem-bypassing-c-visibility-rules-with-roslyn/)
 
 
 ## nuget

@@ -6,6 +6,11 @@
 * [EF Core github](https://github.com/aspnet/EntityFrameworkCore)
 * [EF Core Roadmap](https://docs.microsoft.com/de-de/ef/core/what-is-new/roadmap)
 
+## www
+
+* [Many to Many](https://blog.oneunicorn.com/2017/09/25/many-to-many-relationships-in-ef-core-2-0-part-1-the-basics/)
+* [The Data Farm is Julie Lerman](http://thedatafarm.com/)
+
 ## PLURALSIGHT
 
 ### EF Core
@@ -22,8 +27,5 @@
 * [Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)
 
 
-## www
 
-* [Many to Many](https://blog.oneunicorn.com/2017/09/25/many-to-many-relationships-in-ef-core-2-0-part-1-the-basics/)
-* [The Data Farm is Julie Lerman](http://thedatafarm.com/)
 

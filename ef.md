@@ -7,6 +7,12 @@
 
 ## PLURALSIGHT
 
+### EF
+
+* [Entity Framework in the Enterprise](https://app.pluralsight.com/library/courses/entity-framework-enterprise-update/table-of-contents)
+
+### EF Core
+
 * [Entity Framework Core 2: Getting Started](https://app.pluralsight.com/library/courses/entity-framework-core-2-getting-started/table-of-contents)
 * [Entity Framework Core 2: Mappings](https://app.pluralsight.com/library/courses/e-f-core-2-beyond-the-basics-mappings/table-of-contents)
 * [Entity Framework Core 2.1: What's New Playbook](https://app.pluralsight.com/library/courses/playbook-ef-core-2-1-whats-new/table-of-contents)

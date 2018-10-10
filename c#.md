@@ -21,7 +21,7 @@
 * [4.71 and NetStandard 2.0](https://www.youtube.com/watch?v=u67Eu_IgEMs&t=58s)
 
 * [Framework Checker](https://www.codeproject.com/Articles/1256260/NET-Framework-Checker)
-* [dotnet.core speedup Tiered Compilation](https://blogs.msdn.microsoft.com/dotnet/2018/08/02/tiered-compilation-preview-in-net-core-2-1/)
+
 
 
 ## Performance
@@ -29,6 +29,7 @@
 * [Task.Run / Task.Factory.StartNew](https://twitter.com/davidfowl/status/1049185723176251392)
   * [startnew-is-dangerous](https://blog.stephencleary.com/2013/08/startnew-is-dangerous.html)
   * [task-run-vs-task-factory-startnew](https://blogs.msdn.microsoft.com/pfxteam/2011/10/24/task-run-vs-task-factory-startnew/)
+  * [dotnet.core speedup Tiered Compilation](https://blogs.msdn.microsoft.com/dotnet/2018/08/02/tiered-compilation-preview-in-net-core-2-1/)
   
 ## Otheres
 

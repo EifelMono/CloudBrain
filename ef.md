@@ -1,10 +1,13 @@
 # EF
 
+
 * [EF Doc german](https://docs.microsoft.com/de-de/ef/)
 * [EF Doc english](https://docs.microsoft.com/en-us/ef/)
 
 * [EF Core github](https://github.com/aspnet/EntityFrameworkCore)
 * [EF Core Roadmap](https://docs.microsoft.com/de-de/ef/core/what-is-new/roadmap)
+
+* [2.1](https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-entity-framework-core-2-1/)
 
 ## www
 

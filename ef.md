@@ -1,7 +1,7 @@
 
 # EF
 
-* [EF Core github}(https://github.com/aspnet/EntityFrameworkCore)
+* [EF Core github](https://github.com/aspnet/EntityFrameworkCore)
 * [EF Core Roadmap](https://docs.microsoft.com/de-de/ef/core/what-is-new/roadmap)
 
 ## wwww

@@ -59,6 +59,7 @@ Top 10 List
   * [WixSharp samples on github ](https://github.com/oleg-shilo/wixsharp/tree/c766ea466fe7cfa62eb7df97b8e1f5d44609ed9c/Source/src/WixSharp.Samples)
   * [Source on github](https://github.com/oleg-shilo/wixsharp)
   * [Wix](http://wixtoolset.org/releases/)
+* [EF SQLServerCompactSQLiteToolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
 
 * Quicktype.io Jsonpaste
 

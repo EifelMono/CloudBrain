@@ -35,6 +35,7 @@
 ### Visual Studio
 
 * [SQLServerCompactSQLiteToolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
+* [SQLServerCompactSQLiteToolbox Standalone](https://github.com/ErikEJ/SqlCeToolbox)
 
 
 

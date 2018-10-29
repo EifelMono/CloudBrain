@@ -37,5 +37,13 @@
 * [SQLServerCompactSQLiteToolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
 * [SQLServerCompactSQLiteToolbox Standalone](http://erikej.github.io/SqlCeToolbox/#three)
 
+### Infos
 
+```csharp
+using (MyDatabaseEntities context = new MyDatabaseEntities())
+{
+    context.Database.Log = s => System.Diagnostics.Debug.WriteLine(s);
+    // query the database using EF here.
+}
+```
 

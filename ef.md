@@ -37,7 +37,7 @@
 * [SQLServerCompactSQLiteToolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
 * [SQLServerCompactSQLiteToolbox Standalone](http://erikej.github.io/SqlCeToolbox/#three)
 
-### Infos
+### Logging ef
 
 ```csharp
 using (MyDatabaseEntities context = new MyDatabaseEntities())

@@ -65,5 +65,7 @@ Top 10 List
 
 * [List of the Best Free Visual Studio Extensions](https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/)
 
+## Others
 
+* [Dead Code](https://stackoverflow.com/questions/30974433/get-list-of-zero-reference-codes-in-visual-studio)
 

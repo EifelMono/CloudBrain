@@ -68,4 +68,5 @@ Top 10 List
 ## Others
 
 * [Dead Code](https://stackoverflow.com/questions/30974433/get-list-of-zero-reference-codes-in-visual-studio)
+* [Dead Code](http://dotnetcodepress.com/Articles/Visual-Studio/Eliminate-unused-or-Dead-code-using-Visual-Studio-Code-Analysis)
 

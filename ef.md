@@ -16,6 +16,8 @@
 
 * [Many to Many](https://blog.oneunicorn.com/2017/09/25/many-to-many-relationships-in-ef-core-2-0-part-1-the-basics/)
 * [The Data Farm is Julie Lerman](http://thedatafarm.com/)
+* [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions?fbclid=IwAR17vvprPMUDclcX_8G4XBHn2rxCW1S1U4MT8VQghNXPrSZ6DWFfawgAsdU)
+* [sqlbulkcopy](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlbulkcopy?fbclid=IwAR1kof-3s9izfiS-686tdbvlTrVb0plY2fTMaumS32GbmQlp1vRxA0aDCnA&view=netframework-4.7.2)
 
 ## PLURALSIGHT
 

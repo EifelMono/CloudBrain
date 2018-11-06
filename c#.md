@@ -46,4 +46,5 @@
 ### build in ?
 * [System.IO.Pipelines](https://www.nuget.org/packages/System.IO.Pipelines/)
 * [System.ValueTuple](https://www.nuget.org/packages/System.ValueTuple/)
+* [Span<T>](https://msdn.microsoft.com/en-us/magazine/mt814808.aspx)
 

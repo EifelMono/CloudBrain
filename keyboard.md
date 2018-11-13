@@ -13,7 +13,7 @@
 ## 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
-| Cycle Clipboard ring | <kbd>Ctrl</kbd><kbd>⇧ Shift</kbd>V| | | |
+| Cycle Clipboard ring | <kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>V</kbd>| | | |
 | Duplicate | <kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>V</kbd>| | | |
 | | | | | |
 | | | | | |

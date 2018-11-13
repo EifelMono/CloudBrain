@@ -16,7 +16,7 @@
 <kbd>⎋ Escape</kbd></br>
 <kbd>⇪ Caps lock</kbd></br>
 <kbd>⇥ Tab</kbd> <kbd></br>
-<kbd>⏏︎ Eject</kbd>v
+<kbd>⏏︎ Eject</kbd></br>
 <kbd>⌫ Delete</kbd></br>
 
 #Windows

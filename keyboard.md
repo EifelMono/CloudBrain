@@ -4,7 +4,8 @@
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
-| Navigate back | - | - | - | <kbd>CTRL</kbd>+<kbd>-</kbd>|
+| Navigate back | - | - | - | <kbd>CTRL</kbd><kbd>-</kbd>|
+| Navigate back | - | - | - | <kbd>CTRL</kbd><kbd>SHIFT</kbd><kbd>-</kbd>|
 
 
 

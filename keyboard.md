@@ -8,15 +8,12 @@
 | Navigate Forward | - | - | - | <kbd>CTRL</kbd><kbd>SHIFT</kbd><kbd>-</kbd>|
 
 
-
-<kbd>SHIFT</kbd>
-
-<kbd>CTRL</kbd>
-
-<kbd>ALT</kbd>
-
-<kbd>COMMAND</kbd>
-
-<kbd>TAB</kbd>
-
-<kbd>ESC</kbd>
+⌥ Option ⌥ <kbd>⌥ Option</kbd> <kbd>⌥</kbd>
+⌃ Control ⌃ <kbd>⌃ Control</kbd> <kbd>⌃</kbd>
+⇧ Shift ⇧ <kbd>⇧ Shift</kbd> <kbd>⇧</kbd>
+⌘ Command ⌘ <kbd>⌘ Command</kbd> <kbd>⌘</kbd>
+⎋ Escape ⎋ <kbd>⎋ Escape</kbd> <kbd>⎋</kbd>
+⇪ Caps lock ⇪ <kbd>⇪ Caps lock</kbd> <kbd>⇪</kbd>
+⇥ Tab ⇥ <kbd>⇥ Tab</kbd> <kbd>⇥</kbd>
+⏏︎ Eject ⏏︎ <kbd>⏏︎ Eject</kbd> <kbd>⏏︎</kbd>
+⌫ Delete ⌫ <kbd>⌫ Delete</kbd> <kbd>⌫</kbd>

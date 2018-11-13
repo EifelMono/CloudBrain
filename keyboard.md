@@ -6,7 +6,7 @@
 |:-|:-|:-|:-|:-| 
 | Navigate Back | <kbd>⌃ Crtl</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | <kbd>Alt</kbd><kbd>←</kbd> | <kbd>⌃ Control</kbd><kbd>-</kbd>|
 | Navigate Forward | <kbd>⌃ Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| <kbd>Alt</kbd><kbd>→</kbd> | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
-| Format Document | <kbd>⌃ Ctrl</kbd><kbd>E</kbd>,<kbd>D</kbd> | | | |
+| Format Document | <kbd>⌃ Ctrl</kbd><kbd>E</kbd>,<kbd>D</kbd> | | <kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>F</kbd> | |
 | | | | | |
 | | | | | |
 | | | | | |

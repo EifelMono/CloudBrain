@@ -8,6 +8,7 @@
 | Navigate Forward | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| - | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
 
 #all
+
 <kbd>←</kbd></br>
 <kbd>→</kbd></br>
 <kbd>↑</kbd></br> 
@@ -20,11 +21,13 @@
 <kbd>⌫ Delete</kbd></br>
 
 #Mac
+
 <kbd>⌥ Option</kbd></br>
 <kbd>⌃ Control</kbd></br>
 <kbd>⌘ Command</kbd></br>
 
 #Windows
+
 <kbd>Alt</kbd></br>
 <kbd>Ctrl</kbd></br>
 <kbd>⊞ Windows</kbd></b

@@ -4,22 +4,31 @@
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
-| Navigate Back | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd> | - | <kbd>⌃ Control</kbd><kbd>-</kbd>|
-| Navigate Forward | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd> | - | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
+| Navigate Back | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | - | <kbd>⌃ Control</kbd><kbd>-</kbd>|
+| Navigate Forward | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| - | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
 
-#Mac
-
-<kbd>⌥ Option</kbd></br>
-<kbd>⌃ Control</kbd></br>
+#all
+<kbd>←</kbd>
+<kbd>→</kbd> 
+<kbd>↑</kbd> 
+<kbd>↓</kbd> 
 <kbd>⇧ Shift</kbd></br>
-<kbd>⌘ Command</kbd></br>
 <kbd>⎋ Escape</kbd></br>
 <kbd>⇪ Caps lock</kbd></br>
 <kbd>⇥ Tab</kbd></br>
 <kbd>⏏︎ Eject</kbd></br>
 <kbd>⌫ Delete</kbd></br>
 
-#Windows
+#Mac
+<kbd>⌥ Option</kbd></br>
+<kbd>⌃ Control</kbd></br>
+<kbd>⌘ Command</kbd></br>
 
-<kbd>⌃ Ctrl</kbd></br>
+
+
+#Windows
+<kbd>Alt</kbd></br>
+<kbd>Ctrl</kbd></br>
+<kbd>⊞ Windows</kbd></b
+  
 

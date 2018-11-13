@@ -12,7 +12,8 @@
 | Cycle Clipboard Ring | <kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>V</kbd>| | | |
 | Duplicate | <kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>V</kbd>| | | |
 | Toogle Line Comment| | |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
-| | | | | |
+| Line Comment on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
+| Line Comment off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
 | | | | | |
 
 ## all

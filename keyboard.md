@@ -4,7 +4,7 @@
 
 * If it does not work the first time, I NEED THIS .........................................help
 
-## .
+## Edit
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
@@ -27,7 +27,7 @@
 | Multi-Cursor up|<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | | | |
 | Multi-Cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | | | |
 
-## all
+## Keys
 
 <kbd>←</kbd></br>
 <kbd>→</kbd></br>
@@ -40,13 +40,13 @@
 <kbd>⏏︎ Eject</kbd></br>
 <kbd>⌫ Delete</kbd></br>
 
-## Mac
+## Mac-Keys
 
 <kbd>⌥ Option</kbd></br>
 <kbd>⌃ Control</kbd></br>
 <kbd>⌘ Command</kbd></br>
 
-## Windows
+## Windows-Keys
 
 <kbd>Alt</kbd></br>
 <kbd>Ctrl</kbd></br>

@@ -2,7 +2,7 @@
 
 # Keyboard brain
 
-* if it does not work the first time, i need this....
+* if it does not work the first time, I NEED THIS .........................................help
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 

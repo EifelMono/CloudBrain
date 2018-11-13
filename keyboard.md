@@ -8,12 +8,12 @@
 | Navigate Forward | - | - | - | <kbd>CTRL</kbd><kbd>SHIFT</kbd><kbd>-</kbd>|
 
 
-⌥ Option ⌥ <kbd>⌥ Option</kbd> <kbd>⌥</kbd>
-⌃ Control ⌃ <kbd>⌃ Control</kbd> <kbd>⌃</kbd>
-⇧ Shift ⇧ <kbd>⇧ Shift</kbd> <kbd>⇧</kbd>
-⌘ Command ⌘ <kbd>⌘ Command</kbd> <kbd>⌘</kbd>
-⎋ Escape ⎋ <kbd>⎋ Escape</kbd> <kbd>⎋</kbd>
-⇪ Caps lock ⇪ <kbd>⇪ Caps lock</kbd> <kbd>⇪</kbd>
-⇥ Tab ⇥ <kbd>⇥ Tab</kbd> <kbd>⇥</kbd>
-⏏︎ Eject ⏏︎ <kbd>⏏︎ Eject</kbd> <kbd>⏏︎</kbd>
-⌫ Delete ⌫ <kbd>⌫ Delete</kbd> <kbd>⌫</kbd>
+⌥ Option ⌥ <kbd>⌥ Option</kbd> <kbd>⌥</kbd><br>
+⌃ Control ⌃ <kbd>⌃ Control</kbd> <kbd>⌃</kbd><br>
+⇧ Shift ⇧ <kbd>⇧ Shift</kbd> <kbd>⇧</kbd><br>
+⌘ Command ⌘ <kbd>⌘ Command</kbd> <kbd>⌘</kbd><br>
+⎋ Escape ⎋ <kbd>⎋ Escape</kbd> <kbd>⎋</kbd><br>
+⇪ Caps lock ⇪ <kbd>⇪ Caps lock</kbd> <kbd>⇪</kbd><br>
+⇥ Tab ⇥ <kbd>⇥ Tab</kbd> <kbd>⇥</kbd><br>
+⏏︎ Eject ⏏︎ <kbd>⏏︎ Eject</kbd> <kbd>⏏︎</kbd><br>
+⌫ Delete ⌫ <kbd>⌫ Delete</kbd> <kbd>⌫</kbd><br>

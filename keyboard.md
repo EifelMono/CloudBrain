@@ -4,8 +4,8 @@
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
-| Navigate Back | - | - | - | <kbd>⌃ Control</kbd><kbd>-</kbd>|
-| Navigate Forward | - | - | - | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
+| Navigate Back | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd> | - | <kbd>⌃ Control</kbd><kbd>-</kbd>|
+| Navigate Forward | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd> | - | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
 
 
 ⌥ Option ⌥ <kbd>⌥ Option</kbd> <kbd>⌥</kbd><br>

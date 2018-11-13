@@ -4,7 +4,7 @@
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
-| Navigate Back | <kbd>⌃ Control</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | <kbd>Alt</kbd><kbd>←</kbd> | <kbd>⌃ Control</kbd><kbd>-</kbd>|
+| Navigate Back | <kbd>⌃ Crtl</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | <kbd>Alt</kbd><kbd>←</kbd> | <kbd>⌃ Control</kbd><kbd>-</kbd>|
 | Navigate Forward | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| <kbd>Alt</kbd><kbd>→</kbd> | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
 | Format Document | | | | |
 | | | | | |

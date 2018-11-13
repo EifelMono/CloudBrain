@@ -7,6 +7,10 @@
 | Navigate Back | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | - | <kbd>⌃ Control</kbd><kbd>-</kbd>|
 | Navigate Forward | - | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| - | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
 | Format Document | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
 #all
 

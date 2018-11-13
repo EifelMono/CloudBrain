@@ -22,7 +22,8 @@
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
-| | | | | |
+| Insert next matching Caret  |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>.</kbd> | | | |
+| Insert Carets at All matching |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>ü</kbd> | | | |
 
 ## all
 

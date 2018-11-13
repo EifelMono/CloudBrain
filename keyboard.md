@@ -4,6 +4,8 @@
 
 * If it does not work the first time, I NEED THIS .........................................help
 
+## .
+
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
 | Navigate Back | <kbd>⌃ Crtl</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | <kbd>Alt</kbd><kbd>←</kbd> | <kbd>⌃ Control</kbd><kbd>-</kbd>|
@@ -14,6 +16,12 @@
 | Comment Toogle Line | |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
 | Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
 | Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
+| | | | | |
+
+## Multicursor
+
+| Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
+|:-|:-|:-|:-|:-| 
 | | | | | |
 
 ## all

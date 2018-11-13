@@ -15,7 +15,7 @@
 <kbd>⌘ Command</kbd></br>
 <kbd>⎋ Escape</kbd></br>
 <kbd>⇪ Caps lock</kbd></br>
-<kbd>⇥ Tab</kbd> <kbd></br>
+<kbd>⇥ Tab</kbd></br>
 <kbd>⏏︎ Eject</kbd></br>
 <kbd>⌫ Delete</kbd></br>
 

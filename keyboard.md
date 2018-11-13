@@ -11,7 +11,7 @@
 | Format Document | <kbd>⌃ Ctrl</kbd><kbd>E</kbd>,<kbd>D</kbd> | <kbd>⌃ Control</kbd><kbd>I</kbd> | <kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>F</kbd> | <kbd>⌥ Option</kbd><kbd>⇧ Shift</kbd><kbd>F</kbd> |
 | Cycle Clipboard Ring | <kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>V</kbd>| | | |
 | Duplicate | <kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>V</kbd>| | | |
-| | | | | |
+| Toogle Line Comment| | |<kbd>Ctrl</kbd><kbd>#<kbd> | |
 | | | | | |
 | | | | | |
 

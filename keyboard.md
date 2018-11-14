@@ -40,16 +40,12 @@
 <kbd>⏏︎ Eject</kbd></br>
 <kbd>⌫ Delete</kbd></br>
 
-## Mac-Keys
+| Mac-Keys                | Windows-Keys            |
+|:------------------------|:------------------------|
+| <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>           |
+| <kbd>⌃ Control</kbd>    | <kbd>Ctrl</kbd>         |
+| <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd>   |
 
-<kbd>⌥ Option</kbd></br>
-<kbd>⌃ Control</kbd></br>
-<kbd>⌘ Command</kbd></br>
 
-## Windows-Keys
-
-<kbd>Alt</kbd></br>
-<kbd>Ctrl</kbd></br>
-<kbd>⊞ Windows</kbd></b
   
 

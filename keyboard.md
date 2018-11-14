@@ -2,7 +2,7 @@
 
 # Keyboard brain
 
-* If it does not work the first time, I NEED THIS .........................................help
+* If it does not work the first time, I NEED THIS .........................................<kbd>help</kbd>
 
 ## Edit
 
@@ -29,11 +29,11 @@
 
 ## Keys
 
-| Mac-Keys                | Windows-Keys            |
-|:------------------------|:------------------------|
-| <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>           |
-| <kbd>⌃ Control</kbd>    | <kbd>Ctrl</kbd>         |
-| <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd>   |
+|                         | Mac-Keys                | Windows-Keys            |
+|:------------------------|:------------------------|:------------------------|
+|                         | <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>           |
+|                         | <kbd>⌃ Control</kbd>    | <kbd>Ctrl</kbd>         |
+|                         | <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd>   |
 
 | Cursor         |                |                |                |                |
 |:---------------|:---------------|:---------------|:---------------|:---------------|

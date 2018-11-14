@@ -2,7 +2,7 @@
 
 # Keyboard brain
 
-* If it does not work the first time, I NEED THIS ......................................... <kbd>HELP</kbd>
+* If it does not work the first time, I NEED THIS ......................................... **<kbd>HELP</kbd>**
 
 ## Edit
 

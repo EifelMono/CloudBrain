@@ -43,17 +43,18 @@
 |:---------------|:------------------------|:------------------|:-------------------|:--------------------|
 |                | <kbd>←</kbd>            | <kbd>→</kbd>      |  <kbd>↑</kbd>      | <kbd>↓</kbd>        |
 |                |                         |                   |  <kbd>⇞ PgUp</kbd> | <kbd>⇟ PgDn</kbd>   |
+|                |                         |                   |  <kbd>↖ Home</kbd> | <kbd>↘ End</kbd>   |
 |                | <kbd>⇤ Shift Tab</kbd>  | <kbd>⇥ Tab</kbd> |                    |                     |                      
 
-| Others                |                         |
-|:----------------------|:------------------------|
-|                       | <kbd>⇧ Shift</kbd>      |
-|                       | <kbd>⎋ Escape</kbd>     |
-|                       | <kbd>⇪ Caps lock</kbd>  |
-|                       | <kbd>⇥ Tab</kbd>       |
-|                       | <kbd>⏏︎ Eject</kbd>     |
-|                       | <kbd>⌫ Delete</kbd>   |
-|                       | <kbd>↩ Return</kbd>   |
-|                       | <kbd>␢ Space</kbd>   |
+| Others                |                           |
+|:----------------------|:--------------------------|
+|                       | <kbd>↩ Return</kbd>       |
+|                       | <kbd>⇧ Shift</kbd>        |
+|                       | <kbd>⌫ Delete</kbd>      |
+|                       | <kbd>⎋ Escape</kbd>       |
+|                       | <kbd>⇪ Caps lock</kbd>    |
+|                       | <kbd>⏏︎ Eject</kbd>       |
+|                       | <kbd>⌦ Fwd Delete</kbd>  |
+|                       | <kbd>␢ Space</kbd>        |
 
 

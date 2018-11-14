@@ -29,9 +29,9 @@
 
 ## Keys
 
-| Cursor Keys                               |||
+| Cursor Keys    |                |                |                |
 |:---------------|:---------------|:---------------|:---------------|
-| <kbd>←</kbd>   | <kbd>→</kbd>   |  <kbd>↑</kbd>  | <kbd>↓</kbd    |
+| <kbd>←</kbd>   | <kbd>→</kbd>   |  <kbd>↑</kbd>  | <kbd>↓</kbd>   |
   
 <kbd>←</kbd></br>
 <kbd>→</kbd></br>

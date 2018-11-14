@@ -32,11 +32,12 @@
 
 ## <kbd>Keys</kbd>
 
-| OS                      | Mac                     | Windows                 |
+| OS                      | Mac                     | ⊞ Windows                 |
 |:------------------------|:------------------------|:------------------------|
+|                         | <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd>   |
 |                         | <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>           |
 |                         | <kbd>⌃ Control</kbd>    | <kbd>Ctrl</kbd>         |
-|                         | <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd>   |
+
 
 | Cursor         |                |                |                |                |
 |:---------------|:---------------|:---------------|:---------------|:---------------|

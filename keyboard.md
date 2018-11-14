@@ -1,12 +1,12 @@
 
 
-# <kbd>Keyboard</kbd> <kbd>brain</kbd>
+# Keyboard brain
 
 | <kbd>**WHY**</kbd> |
 |:-|
 |If the finger typed key combination does not work the first time and the brain needs to think<br><br><kbd>FORGET</kbd> <kbd>IT</kbd> , then I need this<br><br>Help, I need somebody<br>Help, not just anybody<br><kbd>I</kbd> <kbd>NEED</kbd> <kbd>THIS</kbd> <kbd>HELP</kbd> <kbd>!</kbd>|
 
-## <kbd>Edit</kbd>
+## Edit
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
@@ -21,7 +21,7 @@
 | Toggel Full Screen Edititing |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↩ Return</kbd> | | | |
 | | | | | |
 
-## <kbd>Multicursor</kbd>
+## Multicursor
 
 | Description | Visual Studio<br>Windows  | Visual Studio<br>Mac | Visual Studio<br>Code Windows | Visual Studio<br>Code Mac |
 |:-|:-|:-|:-|:-| 
@@ -30,9 +30,9 @@
 | Multi-Cursor up|<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | | | |
 | Multi-Cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | | | |
 
-## <kbd>Keys</kbd>
+## Keys
 
-| OS                      | ⌘ Mac                  | ⊞ Windows                 |
+| OS                      | ⌘ Max (OS X)           | ⊞ Windows                 |
 |:------------------------|:------------------------|:------------------------|
 |                         | <kbd>⌘ Command</kbd>   | <kbd>⊞ Windows</kbd>   |
 |                         | <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>           |

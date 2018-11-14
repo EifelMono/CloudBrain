@@ -8,7 +8,7 @@
 
 ## Edit
 
-| Description | Visual Studio<br>⊞ Windows   | Visual Studio<br>⌘ macOS | Visual Studio<br>Code ⊞ Windows  | Visual Studio<br>Code ⌘ macOS |
+| Description | Visual Studio<br>⊞ Windows   | Visual Studio<br>⌘ macOS | Visual Studio Code<br>⊞ Windows  | Visual Studio Code<br>⌘ macOS |
 |:-|:-|:-|:-|:-| 
 | Navigate Back | <kbd>⌃ Crtl</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | <kbd>Alt</kbd><kbd>←</kbd> | <kbd>⌃ Control</kbd><kbd>-</kbd>|
 | Navigate Forward | <kbd>⌃ Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| <kbd>Alt</kbd><kbd>→</kbd> | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
@@ -23,7 +23,7 @@
 
 ## Multicursor
 
-| Description | Visual Studio<br>⊞ Windows   | Visual Studio<br>⌘ macOS | Visual Studio<br>Code ⊞ Windows  | Visual Studio<br>Code ⌘ macOS |
+| Description | Visual Studio<br>⊞ Windows   | Visual Studio<br>⌘ macOS | Visual Studio Code<br>⊞ Windows  | Visual Studio Code<br>⌘ macOS |
 |:-|:-|:-|:-|:-| 
 | Insert next matching Caret  |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>.</kbd> | | | |
 | Insert Carets at All matching |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>ü</kbd> | | | |

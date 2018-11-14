@@ -3,10 +3,11 @@
 # Keyboard brain
 
 | **WHY** |
+|:-:|
 |If the finger typed key combination does not work the first time,</br>
 and the brain needs to think, forget it</br>
 THEN I NEED THIS ......................................... <kbd>**HELP**</kbd>|
-|:-:|
+
 
 
 ## Edit

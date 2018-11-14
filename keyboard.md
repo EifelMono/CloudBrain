@@ -29,7 +29,7 @@
 
 ## Keys
 
-| OS                      | Mac-Keys                | Windows-Keys            |
+| OS                      | Mac                     | Windows                 |
 |:------------------------|:------------------------|:------------------------|
 |                         | <kbd>⌥ Option</kbd>    | <kbd>Alt</kbd>           |
 |                         | <kbd>⌃ Control</kbd>    | <kbd>Ctrl</kbd>         |

@@ -29,20 +29,19 @@
 
 ## Keys
 
-| Cursor Keys    |                |                |                |
-|:---------------|:---------------|:---------------|:---------------|
-| <kbd>←</kbd>   | <kbd>→</kbd>   |  <kbd>↑</kbd>  | <kbd>↓</kbd>   |
-  
-<kbd>←</kbd></br>
-<kbd>→</kbd></br>
-<kbd>↑</kbd></br> 
-<kbd>↓</kbd></br> 
-<kbd>⇧ Shift</kbd></br>
-<kbd>⎋ Escape</kbd></br>
-<kbd>⇪ Caps lock</kbd></br>
-<kbd>⇥ Tab</kbd></br>
-<kbd>⏏︎ Eject</kbd></br>
-<kbd>⌫ Delete</kbd></br>
+|                |                |                |                |                |
+|:---------------|:---------------|:---------------|:---------------|:---------------|
+|Cursor Keys     | <kbd>←</kbd>   | <kbd>→</kbd>   |  <kbd>↑</kbd>  | <kbd>↓</kbd>   |
+
+
+|                       |                         |
+|:----------------------|:------------------------|
+|                       | <kbd>⇧ Shift</kbd>      |
+|                       | <kbd>⎋ Escape</kbd>     |
+|                       | <kbd>⇪ Caps lock</kbd>  |
+|                       | <kbd>⇥ Tab</kbd>       |
+|                       | <kbd>⏏︎ Eject</kbd>     |
+|                       | <kbd>⌫ Delete</kbd>   |
 
 | Mac-Keys                | Windows-Keys            |
 |:------------------------|:------------------------|

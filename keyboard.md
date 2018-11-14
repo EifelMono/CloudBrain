@@ -18,7 +18,7 @@
 | Comment Toogle Line | |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
 | Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
 | Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
-| Toggel Full Screen Edititing |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>Enter</kbd> | | | |
+| Toggel Full Screen Edititing |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↩ Return</kbd> | | | |
 | | | | | |
 
 ## <kbd>Multicursor</kbd>
@@ -39,9 +39,11 @@
 |                         | <kbd>⌃ Control</kbd>    | <kbd>Ctrl</kbd>         |
 
 
-| Cursor         |                |                |                |                |
-|:---------------|:---------------|:---------------|:---------------|:---------------|
-|                | <kbd>←</kbd>   | <kbd>→</kbd>   |  <kbd>↑</kbd>  | <kbd>↓</kbd>   |
+| Cursor         |                         |                   |                    |                     |
+|:---------------|:------------------------|:------------------|:-------------------|:--------------------|
+|                | <kbd>←</kbd>            | <kbd>→</kbd>      |  <kbd>↑</kbd>      | <kbd>↓</kbd>        |
+|                |                         |                   |  <kbd>⇞ PgUp</kbd> | <kbd>⇟ PgDn</kbd>   |
+|                | <kbd>⇤ Shift Tab</kbd>  | <kbd>⇥ Tab</kbd> |                    |                     |                      
 
 | Others                |                         |
 |:----------------------|:------------------------|
@@ -51,4 +53,7 @@
 |                       | <kbd>⇥ Tab</kbd>       |
 |                       | <kbd>⏏︎ Eject</kbd>     |
 |                       | <kbd>⌫ Delete</kbd>   |
+|                       | <kbd>↩ Return</kbd>   |
+|                       | <kbd>␢ Space</kbd>   |
+
 

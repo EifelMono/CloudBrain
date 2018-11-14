@@ -4,10 +4,7 @@
 
 | **WHY** |
 |:-|
-|If the finger typed key combination does not work the first time and the brain needs to think<br>
-**forget it**<br><br>THEN I NEED THIS ......................................... <kbd>HELP</kbd><br>
-Help, I need somebody
-Help, not just anybody|
+|If the finger typed key combination does not work the first time and the brain needs to think<br>**forget it**<br><br>THEN I NEED THIS ......................................... <br>Help, I need somebody<br>Help, not just anybody<br>I NEED THIS..........<kbd>HELP</kbd>|
 
 
 

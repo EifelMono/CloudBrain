@@ -6,6 +6,21 @@
 |:-|
 |If the finger typed key combination does not work the first time and the brain needs to think<br><br><kbd>FORGET</kbd> <kbd>IT</kbd> , then I need this<br><br>Help, I need somebody<br>Help, not just anybody<br><kbd>I</kbd> <kbd>NEED</kbd> <kbd>THIS</kbd> <kbd>HELP</kbd> <kbd>!</kbd>|
 
+## Navigation
+
+| Description | Visual Studio<br>⊞ Windows   | Visual Studio<br>⌘ macOS | Visual Studio<br>Code<br>⊞ Windows  | Visual Studio<br> Code<br>⌘ macOS |
+|:-|:-|:-|:-|:-| 
+| Navigate Back | <kbd>⌃ Crtl</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>←</kbd> | <kbd>Alt</kbd><kbd>←</kbd> | <kbd>⌃ Control</kbd><kbd>-</kbd>|
+| Navigate Forward | <kbd>⌃ Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| <kbd>Alt</kbd><kbd>→</kbd> | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
+| Format Document | <kbd>⌃ Ctrl</kbd><kbd>E</kbd>,<kbd>D</kbd> | <kbd>⌃ Control</kbd><kbd>I</kbd> | <kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>F</kbd> | <kbd>⌥ Option</kbd><kbd>⇧ Shift</kbd><kbd>F</kbd> |
+| Cycle Clipboard Ring | <kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>V</kbd>| | | |
+| Duplicate | <kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>V</kbd>| | | |
+| Comment Toogle Line | |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
+| Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
+| Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
+| Toggel Full Screen Edititing |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↩ Return</kbd> | | | |
+| | | | | |
+
 ## Edit
 
 | Description | Visual Studio<br>⊞ Windows   | Visual Studio<br>⌘ macOS | Visual Studio<br>Code<br>⊞ Windows  | Visual Studio<br> Code<br>⌘ macOS |

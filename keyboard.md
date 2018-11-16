@@ -14,7 +14,7 @@
 | Navigate Forward | <kbd>⌃ Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd> | <kbd>⌃ Control</kbd><kbd>⌘ Command</kbd><kbd>→</kbd>| <kbd>Alt</kbd><kbd>→</kbd> | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>-</kbd>|
 | Toggel Full Screen Edititing |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↩ Return</kbd> | | | |
 | Goto Last Edit Location |<kbd>⇧ Shift</kbd><kbd>Ctrl</kbd><kbd>⌫ Delete</kbd>  | | | |
-| | | | | |
+| Goto Last Edit Location | | <kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>\</kbd> | | |
 
 ## Edit
 

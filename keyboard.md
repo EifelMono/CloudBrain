@@ -20,7 +20,7 @@
 
 | Description | Visual Studio<br>⊞ Windows   | Visual Studio<br>⌘ macOS | Visual Studio<br>Code<br>⊞ Windows  | Visual Studio<br> Code<br>⌘ macOS |
 |:-|:-|:-|:-|:-| 
-| Format Document | <kbd>⌃ Ctrl</kbd><kbd>E</kbd>,<kbd>D</kbd> | <kbd>⌃ Control</kbd><kbd>I</kbd> | <kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>F</kbd> | <kbd>⌥ Option</kbd><kbd>⇧ Shift</kbd><kbd>F</kbd> |
+| Format Document | <kbd>⌃ Ctrl</kbd><kbd>E</kbd>,<kbd>D</kbd> | <kbd>⌃ Control</kbd><kbd>I</kbd> | <kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>F</kbd> | <kbd>⇧ Shift</kbd><kbd>⌥ Option</kbd><kbd>F</kbd> |
 | Cycle Clipboard Ring | <kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>V</kbd>| | | |
 | Duplicate | <kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>V</kbd>| | | |
 | Comment Toogle Line | |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |

@@ -34,6 +34,7 @@
 ## Otheres
 
 * [Access without reflection](https://www.strathweb.com/2018/10/no-internalvisibleto-no-problem-bypassing-c-visibility-rules-with-roslyn/)
+* [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/)
 
 
 ## nuget

@@ -23,7 +23,7 @@
 | Format Document | <kbd>⌃ Ctrl</kbd><kbd>E</kbd>,<kbd>D</kbd> | <kbd>⌃ Control</kbd><kbd>I</kbd> | <kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>F</kbd> | <kbd>⇧ Shift</kbd><kbd>⌥ Option</kbd><kbd>F</kbd> |
 | Cycle Clipboard Ring | <kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>V</kbd>| | | |
 | Duplicate | <kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>V</kbd>| | | |
-| Comment Line Toggle |  |</br><kbd>⌘ Command</kbd><kbd>/</kbd> |</br><kbd>Ctrl</kbd><kbd>#</kbd> |</br><kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
+| Comment Line Toggle |  |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
 | Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
 | Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
 | | | | | |

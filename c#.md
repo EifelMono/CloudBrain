@@ -35,6 +35,7 @@
 
 * [Access without reflection](https://www.strathweb.com/2018/10/no-internalvisibleto-no-problem-bypassing-c-visibility-rules-with-roslyn/)
 * [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/)
+* [Dynamically Create a Class at Runtime](https://www.c-sharpcorner.com/UploadFile/87b416/dynamically-create-a-class-at-runtime/)
 
 
 ## nuget

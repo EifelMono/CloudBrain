@@ -37,7 +37,7 @@
 * [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/)
 * [Dynamically Create a Class at Runtime](https://www.c-sharpcorner.com/UploadFile/87b416/dynamically-create-a-class-at-runtime/)
 
-## Exrpressions
+## Expressions
 
 * https://github.com/aquilae/expression-json-serializer
 * https://github.com/esskar/Serialize.Linq

@@ -41,6 +41,7 @@
 
 * https://github.com/aquilae/expression-json-serializer
 * https://github.com/esskar/Serialize.Linq
+* https://github.com/kahanu/System.Linq.Dynamic
 
 
 

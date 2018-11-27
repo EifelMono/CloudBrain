@@ -44,6 +44,7 @@
 * https://github.com/kahanu/System.Linq.Dynamic
 * http://www.underweasel.me/2016/04/06/Serializing-CSharp-Lambdas.html
 * https://github.com/vmelamed/vm/tree/master/Aspects/Linq/Expressions/Serialization
+* https://github.com/kahanu/System.Linq.Dynamic/wiki/Dynamic-Expressions
 
 
 ## nuget

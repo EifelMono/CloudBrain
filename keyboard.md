@@ -26,6 +26,8 @@
 | Comment Line Toggle |  |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
 | Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
 | Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
+| Font size + | | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
+| Font size - | | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
 | | | | | |
 
 ## Multicursor

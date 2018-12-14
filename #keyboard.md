@@ -26,8 +26,8 @@
 | Comment Line Toggle |  |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
 | Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
 | Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
-| Font size + |<kbd>Ctrl</kbd><kbd>∩ MiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
-| Font size - |<kbd>Ctrl</kbd><kbd>∩ MiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
+| Font size + |<kbd>Ctrl</kbd><kbd>θ MiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
+| Font size - |<kbd>Ctrl</kbd><kbd>θ MiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
 | | | | | |
 
 ## Multicursor
@@ -38,7 +38,7 @@
 | Insert Carets at All matching |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>ü</kbd> | | <kbd>Crtl</kbd><kbd>⇧ Shift</kbd><kbd>L</kbd>| |
 | Block multi cursor up|<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |
 | Block multi cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |
-| Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>∩ LeftClick</kbd> | |<kbd>Alt</kbd><kbd>∩ LeftClick</kbd> | |
+| Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>θ LeftClick</kbd> | |<kbd>Alt</kbd><kbd>θ LeftClick</kbd> | |
 
 ## Keys
 
@@ -56,12 +56,12 @@
 |                |                         |                   |  <kbd>↖ Home</kbd> | <kbd>↘ End</kbd>   |
 |                | <kbd>⇤ Shift Tab</kbd>  | <kbd>⇥ Tab</kbd> |                    |                     |                      
 
-| Mouse ∩               |                           |
+| Mouse θ               |                           |
 |:----------------------|:--------------------------|
-| Mouse Left Click      | <kbd>∩ LeftClick</kbd>    |
-| Mouse Right Click     | <kbd>∩ RightClick</kbd>   |
-| Mouse Middle Click    | <kbd>∩ MiddleClick</kbd>  |
-| Mouse Middle Scroll    | <kbd>∩ MiddleScroll</kbd>  |
+| Mouse Left Click      | <kbd>θ LeftClick</kbd>    |
+| Mouse Right Click     | <kbd>θ RightClick</kbd>   |
+| Mouse Middle Click    | <kbd>θ MiddleClick</kbd>  |
+| Mouse Middle Scroll    | <kbd>θ MiddleScroll</kbd>  |
 
 | Others                |                           |
 |:----------------------|:--------------------------|

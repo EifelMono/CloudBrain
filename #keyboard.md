@@ -76,6 +76,5 @@
 
 
 Reference
-
 https://wiki.selfhtml.org/wiki/Referenz:HTML/Zeichenreferenz
 

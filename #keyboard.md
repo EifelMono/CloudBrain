@@ -56,7 +56,7 @@
 |                |                         |                   |  <kbd>↖ Home</kbd> | <kbd>↘ End</kbd>   |
 |                | <kbd>⇤ Shift Tab</kbd>  | <kbd>⇥ Tab</kbd> |                    |                     |                      
 
-| Mouse                | ⚗                          |
+| Mouse                | ∩                          |
 |:----------------------|:--------------------------|
 |                       | <kbd>MouseLeftClick</kbd>       |
 |                       | <kbd>⇧ Shift</kbd>        |

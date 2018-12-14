@@ -26,8 +26,8 @@
 | Comment Line Toggle |  |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
 | Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
 | Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
-| Font size + |<kbd>Ctrl</kbd><kbd>MouseMiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
-| Font size - |<kbd>Ctrl</kbd><kbd>MouseMiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
+| Font size + |<kbd>Ctrl</kbd><kbd>∩ MiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
+| Font size - |<kbd>Ctrl</kbd><kbd>∩ MiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
 | | | | | |
 
 ## Multicursor
@@ -38,7 +38,7 @@
 | Insert Carets at All matching |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>ü</kbd> | | <kbd>Crtl</kbd><kbd>⇧ Shift</kbd><kbd>L</kbd>| |
 | Block multi cursor up|<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |
 | Block multi cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |
-| Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>MouseLeftClick</kbd> | |<kbd>Alt</kbd><kbd>MouseLeftClick</kbd> | |
+| Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>∩ LeftClick</kbd> | |<kbd>Alt</kbd><kbd>∩ LeftClick</kbd> | |
 
 ## Keys
 
@@ -56,16 +56,12 @@
 |                |                         |                   |  <kbd>↖ Home</kbd> | <kbd>↘ End</kbd>   |
 |                | <kbd>⇤ Shift Tab</kbd>  | <kbd>⇥ Tab</kbd> |                    |                     |                      
 
-| Mouse                | ∩                          |
+| Mouse ∩               |                           |
 |:----------------------|:--------------------------|
-|                       | <kbd>MouseLeftClick</kbd>       |
-|                       | <kbd>⇧ Shift</kbd>        |
-|                       | <kbd>⌫ Delete</kbd>      |
-|                       | <kbd>⎋ Escape</kbd>       |
-|                       | <kbd>⇪ Caps lock</kbd>    |
-|                       | <kbd>⏏︎ Eject</kbd>       |
-|                       | <kbd>⌦ Fwd Delete</kbd>  |
-|                       | <kbd>␢ Space</kbd>        |
+| Mouse Left Click      | <kbd>∩ LeftClick</kbd>    |
+| Mouse Right Click     | <kbd>∩ RightClick</kbd>   |
+| Mouse Middle Click    | <kbd>∩ MiddleClick</kbd>  |
+| Mouse Middle Scroll    | <kbd>∩ MiddleScroll</kbd>  |
 
 | Others                |                           |
 |:----------------------|:--------------------------|
@@ -79,5 +75,7 @@
 |                       | <kbd>␢ Space</kbd>        |
 
 
+Reference
 
+https://wiki.selfhtml.org/wiki/Referenz:HTML/Zeichenreferenz
 

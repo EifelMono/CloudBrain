@@ -26,8 +26,8 @@
 | Comment Line Toggle |  |<kbd>⌘ Command</kbd><kbd>/</kbd> |<kbd>Ctrl</kbd><kbd>#</kbd> |<kbd>⇧ Shift</kbd><kbd>⌘ Command</kbd><kbd>7</kbd> |
 | Comment Line on |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>C</kbd> | | | |
 | Comment Line off |<kbd>Ctrl</kbd><kbd>E</kbd>,<kbd>U</kbd> | | | |
-| Font size + | | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
-| Font size - | | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
+| Font size + |<kbd>Ctrl</kbd><kbd>MouseMiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
+| Font size - |<kbd>Ctrl</kbd><kbd>MouseMiddleScroll</kbd> | |<kbd>Ctrl</kbd><kbd>+</kbd> | |
 | | | | | |
 
 ## Multicursor
@@ -38,7 +38,7 @@
 | Insert Carets at All matching |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>ü</kbd> | | <kbd>Crtl</kbd><kbd>⇧ Shift</kbd><kbd>L</kbd>| |
 | Block multi cursor up|<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |
 | Block multi cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |
-| Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>LeftMouseClick</kbd> | |<kbd>Alt</kbd><kbd>LeftMouseClick</kbd> | |
+| Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>MouseLeftClick</kbd> | |<kbd>Alt</kbd><kbd>MouseLeftClick</kbd> | |
 
 ## Keys
 

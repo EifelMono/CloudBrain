@@ -56,6 +56,17 @@
 |                |                         |                   |  <kbd>↖ Home</kbd> | <kbd>↘ End</kbd>   |
 |                | <kbd>⇤ Shift Tab</kbd>  | <kbd>⇥ Tab</kbd> |                    |                     |                      
 
+| Mouse                | ⚗                          |
+|:----------------------|:--------------------------|
+|                       | <kbd>MouseLeftClick</kbd>       |
+|                       | <kbd>⇧ Shift</kbd>        |
+|                       | <kbd>⌫ Delete</kbd>      |
+|                       | <kbd>⎋ Escape</kbd>       |
+|                       | <kbd>⇪ Caps lock</kbd>    |
+|                       | <kbd>⏏︎ Eject</kbd>       |
+|                       | <kbd>⌦ Fwd Delete</kbd>  |
+|                       | <kbd>␢ Space</kbd>        |
+
 | Others                |                           |
 |:----------------------|:--------------------------|
 |                       | <kbd>↩ Return</kbd>       |
@@ -66,5 +77,7 @@
 |                       | <kbd>⏏︎ Eject</kbd>       |
 |                       | <kbd>⌦ Fwd Delete</kbd>  |
 |                       | <kbd>␢ Space</kbd>        |
+
+
 
 

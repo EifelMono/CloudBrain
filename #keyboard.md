@@ -36,8 +36,8 @@
 |:-|:-|:-|:-|:-| 
 | Insert next matching Caret  |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>.</kbd> | | | |
 | Insert Carets at All matching |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>ü</kbd> | | | |
-| Multi-Cursor up|<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | | | |
-| Multi-Cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | | | |
+| Block multi cursor up|<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↑</kbd> | |
+| Block multi cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |
 | Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>LeftMouseClick</kbd> | |<kbd>Alt</kbd><kbd>LeftMouseClick</kbd> | |
 
 ## Keys

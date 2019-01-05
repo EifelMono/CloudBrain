@@ -4,6 +4,10 @@
 ## Train
 * https://customvision.ai
 
+## Demos
+
+* https://github.com/Microsoft/AIVisualProvision
+
 ## others
 * https://docs.microsoft.com/de-de/xamarin/ios/platform/introduction-to-ios11/coreml
 * https://blog.xamarin.com/android-apps-tensorflow/

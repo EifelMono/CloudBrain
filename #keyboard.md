@@ -44,7 +44,10 @@
 
 | Keyboard                | Character               |
 |:------------------------|:------------------------|
-| <kbd>⌥ Option</kbd>5    | [                       |
+| <kbd>⌥ Option</kbd><kbd>5</kbd> | <kbd>[</kbd> |
+| <kbd>⌥ Option</kbd><kbd>6</kbd> | <kbd>]</kbd> |
+| <kbd>⌥ Option</kbd><kbd>7</kbd> | <kbd>|</kbd> |
+
 
 ## Keys
 

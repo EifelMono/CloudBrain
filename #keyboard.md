@@ -42,11 +42,11 @@
 
 ## German Mac Keyboard
 
-| Keyboard                | Character               |
+| ⌘ macOS                 | Character               |
 |:------------------------|:------------------------|
 | <kbd>⌥ Option</kbd><kbd>5</kbd> | <kbd>[</kbd> |
 | <kbd>⌥ Option</kbd><kbd>6</kbd> | <kbd>]</kbd> |
-| <kbd>⌥ Option</kbd><kbd>7</kbd> | <kbd>|</kbd> |
+| <kbd>⌥ Option</kbd><kbd>7</kbd> | <kbd>&#124;</kbd> |
 
 
 ## Keys

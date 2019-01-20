@@ -47,7 +47,9 @@
 | <kbd>⌥ Option</kbd><kbd>5</kbd> | <kbd>[</kbd> |
 | <kbd>⌥ Option</kbd><kbd>6</kbd> | <kbd>]</kbd> |
 | <kbd>⌥ Option</kbd><kbd>7</kbd> | <kbd>&#124;</kbd> |
-
+| <kbd>⌥ Option</kbd><kbd>8</kbd> | <kbd>{</kbd> |
+| <kbd>⌥ Option</kbd><kbd>9</kbd> | <kbd>}</kbd> |
+| <kbd>⌥ Option</kbd><kbd>n</kbd> | <kbd>~</kbd> |
 
 ## Keys
 

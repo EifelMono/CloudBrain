@@ -40,7 +40,7 @@
 | Block multi cursor down |<kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |<kbd>Ctrl</kbd><kbd>⇧ Shift</kbd><kbd>Alt</kbd><kbd>↓</kbd> | |
 | Edit multiple locations |<kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>θ LeftClick</kbd> | |<kbd>Alt</kbd><kbd>θ LeftClick</kbd> | |
 
-## German Mac Keyboard
+## ⌘ macOS Keyboard German 
 
 | ⌘ macOS                 | Character               |
 |:------------------------|:------------------------|

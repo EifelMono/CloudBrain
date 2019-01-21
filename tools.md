@@ -49,6 +49,7 @@ https://github.com/natemcmaster/dotnet-tools
 * https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/
 * [default .editorconfig from roslyn](https://github.com/dotnet/roslyn/blob/master/.editorconfig)
 * [default from the doc page](https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference#example-editorconfig-file)
+* https://github.com/MicrosoftDocs/visualstudio-docs/blob/master/docs/ide/editorconfig-code-style-settings-reference.md
 
 # Settings.StyleCop
 * 

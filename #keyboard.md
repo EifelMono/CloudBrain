@@ -54,7 +54,7 @@
 
 ## VsCode
 
-| Description | Visual Studio<br>⊞ Windows   | Visual Studio<br> Code<br>⌘ macOS |
+| Description | Visual Studio<br> Code<br>⊞ Windows   | Visual Studio<br> Code<br>⌘ macOS |
 |:------------------------|:------------------------|:------------------------|
 | Open Terminal | <kbd>⌃ Control</kbd><kbd>ö</kbd> | <kbd>⌃ Control</kbd><kbd>⇧ Shift</kbd><kbd>´</kbd> 
 

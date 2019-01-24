@@ -1,6 +1,7 @@
 # git
 
-* https://guides.github.com/pdfs/githubflow-online.pdf
+* https://guides.github.com/
+  * https://guides.github.com/pdfs/githubflow-online.pdf
 
 
 ## learning

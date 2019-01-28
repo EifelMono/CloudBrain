@@ -3,7 +3,7 @@
 
 ## tool
 
-| command<br>list tools | 
+| list installed tools | 
 |:-|
 |dotnet tool list -g |
 

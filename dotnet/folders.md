@@ -1,15 +1,30 @@
-# folders
+# Folders
 
-
-## tool
+## Tool's
 
 | list installed tools | 
 |:-|
-|dotnet tool list -g |
+| dotnet tool list -g |
 
-# sdk folder
+# Sdk's
 
-| OS | Path   |
+| list installed skds | 
+|:-|
+| dotnet --list-sdks |
+
+| OS | Sdk Path   |
+|:-|:-|
+| ⊞ WindowsS| |
+| ⌘ macOS| |
+|   linux | |
+
+# Runtimes's
+
+| list installed runtimes | 
+|:-|
+| dotnet --list-runtimes |
+
+| OS | Runtime Path   |
 |:-|:-|
 | ⊞ WindowsS| |
 | ⌘ macOS| |

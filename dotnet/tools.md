@@ -7,3 +7,5 @@
 |:-|:-|
 | ⊞ WindowsS| |
 | ⌘ macOS| |
+|   linux | |
+

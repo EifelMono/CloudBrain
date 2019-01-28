@@ -6,7 +6,7 @@
 |:-|
 | dotnet tool list -g |
 
-# Sdk's
+## Sdk's
 
 | list installed skds | 
 |:-|
@@ -18,7 +18,7 @@
 | ⌘ macOS| |
 |   linux | |
 
-# Runtimes's
+## Runtimes's
 
 | list installed runtimes | 
 |:-|

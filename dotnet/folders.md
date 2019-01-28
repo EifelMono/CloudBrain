@@ -2,32 +2,38 @@
 
 ## Tool's
 
-| list installed tools | 
+| List installed tools | 
 |:-|
 | dotnet tool list -g |
 
+| OS | Tool Path |
+|:-|:-|
+| ⊞ Windows | %USERPROFILE%\.dotnet\tools |
+| ⌘ macOS| $HOME/.dotnet/tools |
+|   linux | |
+
 ## Sdk's
 
-| list installed skds | 
+| List installed skds | 
 |:-|
 | dotnet --list-sdks |
 
-| OS | Sdk Path   |
+| OS | Sdk Path |
 |:-|:-|
 | ⊞ WindowsS| |
-| ⌘ macOS| |
+| ⌘ macOS| /usr/local/share/dotnet/sdk |
 |   linux | |
 
 ## Runtimes's
 
-| list installed runtimes | 
+| List installed runtimes | 
 |:-|
 | dotnet --list-runtimes |
 
 | OS | Runtime Path   |
 |:-|:-|
 | ⊞ WindowsS| |
-| ⌘ macOS| |
+| ⌘ macOS| /usr/local/share/dotnet/shared/ |
 |   linux | |
 
 

@@ -10,8 +10,11 @@
 
 ## Settings
 
-### Set email for the repose
+### Set email for the repo (in the folder)
 git config user.email "andreas.klapperich@bd.com"
+
+### Set email address global
+git config --global user.email "andreas@klapperich.de"
 
 
 # learning

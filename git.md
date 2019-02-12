@@ -8,6 +8,11 @@
 * [user and organization](https://help.github.com/articles/differences-between-user-and-organization-accounts/)
 * [Using one account for all your projects](https://github.community/t5/Support-Protips/Using-one-account-for-all-your-projects/ba-p/5509)
 
+## Settings
+
+### Set email for the repose
+git config user.email "andreas.klapperich@bd.com"
+
 
 # learning
 

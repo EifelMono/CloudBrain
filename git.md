@@ -17,5 +17,7 @@ git config user.email "andreas.klapperich@bd.com"
 git config --global user.email "andreas@klapperich.de"
 
 
+* [Single sign on]( https://help.github.com/articles/authenticating-to-a-github-organization-with-saml-single-sign-on/)
+
 # learning
 

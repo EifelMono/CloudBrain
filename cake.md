@@ -9,6 +9,8 @@
   * [A Piece of Cake - C# powered cross platform build automation](https://www.youtube.com/watch?v=zZIyEn4jF2U)
   + [cake course pluralsight](https://www.pluralsight.com/courses/cake-applications-deploying-building)
   * [VSCode extensions videos](https://www.youtube.com/channel/UCO72yJoksHHEDfFJyxTDnqQ)
+  
+* https://github.com/pascalberger/Cake.Issues-Presentation/blob/master/PITCHME.md
 
 
 

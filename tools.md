@@ -36,10 +36,6 @@ https://github.com/natemcmaster/dotnet-tools
 * [Markdown lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 
-# git
-* [GitDown download folder from a git repro](https://minhaskamal.github.io/DownGit/#/home)
-
-
 # [Code Style Configuration](https://blogs.msdn.microsoft.com/dotnet/2016/12/15/code-style-configuration-in-the-vs2017-rc-update/)
 * [Relation between ruleset, editorconfig rules and VS Code Style](https://github.com/dotnet/roslyn/issues/19618)
 

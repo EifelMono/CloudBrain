@@ -71,3 +71,9 @@ Top 10 List
 * [Dead Code](https://stackoverflow.com/questions/30974433/get-list-of-zero-reference-codes-in-visual-studio)
 * [Dead Code](http://dotnetcodepress.com/Articles/Visual-Studio/Eliminate-unused-or-Dead-code-using-Visual-Studio-Code-Analysis)
 
+## VS Mac
+
+
+local Xavalon.XamlStyler.......
+http://dev.benlacey.net/Xavalon.XamlStyler_1.0.4.mpack
+https://forums.xamarin.com/discussion/69427/new-add-in-xaml-styler-looking-for-feedback

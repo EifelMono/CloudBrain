@@ -1,5 +1,7 @@
 # Visual Studio
 
+* [Developer Community](https://developercommunity.visualstudio.com/spaces/8/index.html)
+
 ## Tips
 
 ### [Mads Kristensen](https://twitter.com/mkristensen)

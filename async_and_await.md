@@ -9,3 +9,4 @@
 * [A Practical Example Of Asynchronous Programming in C# and ASP.NET](https://exceptionnotfound.net/asynchronous-programming-asp-net-csharp-practical-guide-refactoring/)
 * [Should I expose asynchronous wrappers for synchronous methods?](https://blogs.msdn.microsoft.com/pfxteam/2012/03/24/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
 * [C# Async Antipatterns](https://markheath.net/post/async-antipatterns)
+* [Getting Started with Asynchronous Programming in .NET](https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started/table-of-contents)

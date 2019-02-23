@@ -1,3 +1,8 @@
+# Links
+
+* dot.net
+* try.dot.net
+
 # dotnet core
 
 * [NET Core Daily Builds](https://github.com/dotnet/core/blob/master/daily-builds.md)

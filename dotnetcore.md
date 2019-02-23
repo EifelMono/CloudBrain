@@ -1,7 +1,7 @@
 # Links
 
-* dot.net
-* try.dot.net
+* [dot.net](https://dot.net)
+* [try.dot.net](https://try.dot.net)
 
 # dotnet core
 

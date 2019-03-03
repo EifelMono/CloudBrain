@@ -1,1 +1,2 @@
-* [streamlineicons](https://streamlineicons.com/download/)
+* https://streamlineicons.com/download/
+* https://www.flaticon.com/

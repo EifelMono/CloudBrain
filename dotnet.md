@@ -1,4 +1,9 @@
 
+netstandard Tables
+https://github.com/dotnet/standard/blob/master/docs/versions.md
+
+
+
 * dotnet httprepl...
 dotnet tool install -g --version 2.2.0-
 * --add-source https://dotnet.myget.org/F/dotnet-core/api/v3/index.json dotnet-httprepl

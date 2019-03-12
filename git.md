@@ -3,12 +3,12 @@
 * https://guides.github.com/
   * https://guides.github.com/pdfs/githubflow-online.pdf
   
-echo "# xxx" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/EifelMono/xxx.git
-git push -u origin master
+* echo "# xxx" >> README.md
+* git init
+* git add README.md
+* git commit -m "first commit"
+* git remote add origin https://github.com/EifelMono/xxx.git
+* git push -u origin master
 
 # github
 

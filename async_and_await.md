@@ -10,3 +10,4 @@
 * [Should I expose asynchronous wrappers for synchronous methods?](https://blogs.msdn.microsoft.com/pfxteam/2012/03/24/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
 * [C# Async Antipatterns](https://markheath.net/post/async-antipatterns)
 * [Getting Started with Asynchronous Programming in .NET](https://app.pluralsight.com/library/courses/asynchronous-programming-dotnet-getting-started/table-of-contents)
+* [Understanding the Whys, Whats, and Whens of ValueTask](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/)

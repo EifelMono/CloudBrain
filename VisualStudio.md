@@ -7,6 +7,7 @@
 ### [Mads Kristensen](https://twitter.com/mkristensen)
 * [Twitter #vstip](https://twitter.com/search?src=typd&q=%23vstip)
 * [extensions](https://marketplace.visualstudio.com/publishers/MadsKristensen)
+* [New Little Features in Visual Studio 2019](https://www.youtube.com/watch?v=u5YauFxb2Ho)
     
 ### https://iamtimcorey.com/vs-gems/
 Top 10 List

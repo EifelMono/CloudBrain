@@ -1,3 +1,7 @@
+# Samples
+
+* https://github.com/dodyg/practical-aspnetcore
+
 # Docs
 * [ASP.NET Core-Dokumentation](https://docs.microsoft.com/de-de/aspnet/)
 

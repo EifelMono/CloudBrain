@@ -1,6 +1,7 @@
 # c#
 
 ## Language features
+* [is null, is object](https://twitter.com/FransBouma/status/1115201371182071808)
 * [Language features](https://github.com/dotnet/roslyn/blob/master/docs/Language%20Feature%20Status.md)
 * [Language features docu](https://docs.microsoft.com/de-de/dotnet/csharp/whats-new/)
 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>mvvmp</Title>
+			<Shortcut>mvvmp</Shortcut>
+			<Description>Code snippet for mvvm property</Description>
+			<Author>EifelMono</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>type</ID>
+					<ToolTip>Property type</ToolTip>
+					<Default>int</Default>
+				</Literal>
+				<Literal>
+					<ID>property</ID>
+					<ToolTip>Property name</ToolTip>
+					<Default>Property</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp"><![CDATA[private $type$ _$property$;
+
+	public $type$ $property$
+	{
+		get { return this.GetProperty(ref _$property$);}
+		set { this.SetProperty(ref _$property$, value);}
+	}
+	$end$]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

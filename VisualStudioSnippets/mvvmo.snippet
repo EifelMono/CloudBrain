@@ -15,8 +15,10 @@
 				<Literal>
 				</Literal>
 			</Declarations>
-			<Code Language="csharp"><![CDATA[public void OnPropertyChanged([CallerMemberName] string propertyName = null)
-            => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));]]>
+			<Code Language="csharp"><![CDATA[public event PropertyChangedEventHandler PropertyChanged;
+			
+			public void OnPropertyChanged([CallerMemberName] string propertyName = null)
+				=> PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));]]>
 			</Code>
 		</Snippet>
 	</CodeSnippet>

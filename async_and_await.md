@@ -1,5 +1,6 @@
 # async and await
 
+* [Correcting Common Mistakes in Asynchronous .NET Code](https://www.youtube.com/watch?v=yyT6dSjq-nE&t=2552s)
 * [One user scenario to rule them all](https://blogs.msdn.microsoft.com/seteplia/2018/02/14/one-user-scenario-to-rule-them-all/)
 * [Async and Await, All the Things Your Mother Never Told You – James Clancey](https://www.youtube.com/watch?v=jgxJbshvCXQ)
 * [Using ConfigureAwait to improve your application](https://johnthiriet.com/2018/04/configure-await/)

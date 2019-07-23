@@ -5,6 +5,10 @@
 * https://github.com/dotnet/machinelearning-samples
 
 
+## Databases
+
+* https://cml.ics.uci.edu/
++ https://archive.ics.uci.edu/ml/datasets.php
 
 
 # AI

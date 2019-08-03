@@ -14,6 +14,9 @@
   * https://www.facebook.com/rotwild.outlet/
   
 * https://www.brose.com/de-de/
+  * https://www.rotwild.de/community-news/news-blog/single/news/mehr-konnektivitaet-mehr-informationen-mehr-moeglichkeiten/
+   * Bloks => NEODRIVES
+     * https://www.neodrives.com/de/
 * https://www.eightpins.at/
 * https://eu.crankbrothers.com/products/highline-dropper-150mm?_pos=4&_sid=16747db53&_ss=r
 

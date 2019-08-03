@@ -1,5 +1,11 @@
 # mtb
 
+## RX 750
+
+* https://www.bike-magazin.de/e_mtb/e_mtb_news_neuheiten/e-mtb-neuheiten-rotwild-rx-750-ultra/a41167.html
+* https://pedelec-elektro-fahrrad.de/news/rotwild-r-x750-neues-all-mountain-e-mtb-legt-die-latte-hoeher/259816/
+
+
 ## Allgemein
 
 * https://www.rotwild.de/
@@ -9,6 +15,7 @@
   
 * https://www.brose.com/de-de/
 * https://www.eightpins.at/
+* https://eu.crankbrothers.com/products/highline-dropper-150mm?_pos=4&_sid=16747db53&_ss=r
 
 * https://www.time-sport.com/int-en/pedals-technologies
 * https://www.rudyproject.com/de/de-de/

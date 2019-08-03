@@ -18,7 +18,9 @@
    * Bloks => NEODRIVES
      * https://www.neodrives.com/de/
 * https://www.eightpins.at/
-* https://eu.crankbrothers.com/products/highline-dropper-150mm?_pos=4&_sid=16747db53&_ss=r
+  * https://eu.crankbrothers.com/products/highline-dropper-150mm?_pos=4&_sid=16747db53&_ss=r
+* https://www.dtswiss.com/de/produkte/laufraeder-hybrid-e-bike/all-mountain/hx-1501-spline-one/hx-1501-spline-one-30/
+  * https://www.dtswiss.com/de/produkte/laufraeder-hybrid-e-bike/all-mountain/h-1900-spline/h-1900-spline-35/
 
 * https://www.time-sport.com/int-en/pedals-technologies
 * https://www.rudyproject.com/de/de-de/

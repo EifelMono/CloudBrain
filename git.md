@@ -29,4 +29,13 @@ git config --global user.email "andreas@klapperich.de"
 * [Single sign on]( https://help.github.com/articles/authenticating-to-a-github-organization-with-saml-single-sign-on/)
 
 # learning
+* [github-git-cheat-sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+* [help oh shit git](https://ohshitgit.com/)
 
+# [git fork](https://help.github.com/en/articles/changing-a-remotes-url)
+* git clone 
+  * git status
+  * git remote -v
+* git remote set-url origin https://github.com/EifelMono/xxx
+  * git remote -v
+* git push -u origin master

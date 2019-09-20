@@ -5,3 +5,8 @@
 
 # Stop process with port
 * Stop-Process -Id (Get-Process -Id (Get-NetTCPConnection -LocalPort 6000).OwningProcess).Id
+
+
+# Posh
+
+* https://github.com/JanDeDobbeleer/oh-my-posh

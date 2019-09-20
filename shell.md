@@ -10,7 +10,7 @@
 
 # Terminal
 
-* [https://www.youtube.com/watch?v=A0eqZujVfYU&t=611s](https://www.youtube.com/watch?v=A0eqZujVfYU&t=611s)
+* [Developing on Windows with WSL2 (Subsystem for Linux), VS Code, Docker, and the Terminal](https://www.youtube.com/watch?v=A0eqZujVfYU&t=611s)
 * [Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!](https://www.youtube.com/watch?v=oHhiMf_6exY)
 
 

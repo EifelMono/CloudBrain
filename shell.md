@@ -16,6 +16,11 @@
 
 # Tools
 
+## Cascadian Code
+
+* [Cascadian Code](https://github.com/microsoft/cascadia-code/releases?WT.mc_id=-blog-scottha)
+* [Patching the new Cascadia Code to include Powerline Glyphs and other Nerd Fonts for the Windows Terminal](https://www.hanselman.com/blog/PatchingTheNewCascadiaCodeToIncludePowerlineGlyphsAndOtherNerdFontsForTheWindowsTerminal.aspx)
+
 ## Posh
 
 * https://github.com/JanDeDobbeleer/oh-my-posh
